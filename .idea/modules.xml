@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/CharandBoolean/CharandBoolean.iml" filepath="$PROJECT_DIR$/CharandBoolean/CharandBoolean.iml" />
       <module fileurl="file://$PROJECT_DIR$/FloatDouble/FloatDouble.iml" filepath="$PROJECT_DIR$/FloatDouble/FloatDouble.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" filepath="$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrimitiveDataTypesRecap/PrimitiveDataTypesRecap.iml" filepath="$PROJECT_DIR$/PrimitiveDataTypesRecap/PrimitiveDataTypesRecap.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-university.iml" filepath="$PROJECT_DIR$/.idea/java-university.iml" />
       <module fileurl="file://$PROJECT_DIR$/operatorChallenge/operatorChallenge.iml" filepath="$PROJECT_DIR$/operatorChallenge/operatorChallenge.iml" />
