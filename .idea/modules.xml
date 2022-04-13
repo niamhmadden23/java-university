@@ -2,19 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" filepath="$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CharandBoolean/CharandBoolean.iml" filepath="$PROJECT_DIR$/CharandBoolean/CharandBoolean.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FloatDouble/FloatDouble.iml" filepath="$PROJECT_DIR$/FloatDouble/FloatDouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamentals/ByteShortIntLong/ByteShortIntLong.iml" filepath="$PROJECT_DIR$/fundamentals/ByteShortIntLong/ByteShortIntLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamentals/CharandBoolean/CharandBoolean.iml" filepath="$PROJECT_DIR$/fundamentals/CharandBoolean/CharandBoolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamentals/FloatDouble/FloatDouble.iml" filepath="$PROJECT_DIR$/fundamentals/FloatDouble/FloatDouble.iml" />
       <module fileurl="file://$PROJECT_DIR$/fundamentals/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/fundamentals/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/fundamentals/KeywordsAndExpressions/KeywordsAndExpressions.iml" filepath="$PROJECT_DIR$/fundamentals/KeywordsAndExpressions/KeywordsAndExpressions.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PrimitiveDataTypesRecap/PrimitiveDataTypesRecap.iml" filepath="$PROJECT_DIR$/PrimitiveDataTypesRecap/PrimitiveDataTypesRecap.iml" />
-      <module fileurl="file://$PROJECT_DIR$/exercise1/exercise1.iml" filepath="$PROJECT_DIR$/exercise1/exercise1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/exercise3/exercise3.iml" filepath="$PROJECT_DIR$/exercise3/exercise3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamentals/Methods/Methods.iml" filepath="$PROJECT_DIR$/fundamentals/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamentals/PrimitiveDataTypesRecap/PrimitiveDataTypesRecap.iml" filepath="$PROJECT_DIR$/fundamentals/PrimitiveDataTypesRecap/PrimitiveDataTypesRecap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamentals/exercise1/exercise1.iml" filepath="$PROJECT_DIR$/fundamentals/exercise1/exercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamentals/exercise3/exercise3.iml" filepath="$PROJECT_DIR$/fundamentals/exercise3/exercise3.iml" />
       <module fileurl="file://$PROJECT_DIR$/fundamentals/fundamentals.iml" filepath="$PROJECT_DIR$/fundamentals/fundamentals.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-university.iml" filepath="$PROJECT_DIR$/.idea/java-university.iml" />
       <module fileurl="file://$PROJECT_DIR$/method-overloading-challenge/method-overloading-challenge.iml" filepath="$PROJECT_DIR$/method-overloading-challenge/method-overloading-challenge.iml" />
-      <module fileurl="file://$PROJECT_DIR$/operatorChallenge/operatorChallenge.iml" filepath="$PROJECT_DIR$/operatorChallenge/operatorChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamentals/operatorChallenge/operatorChallenge.iml" filepath="$PROJECT_DIR$/fundamentals/operatorChallenge/operatorChallenge.iml" />
     </modules>
   </component>
 </project>
